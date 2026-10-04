@@ -1,0 +1,8 @@
+{
+  "lib\\gemma-engine.ts -> @mlc-ai/web-llm": {
+    "id": "lib\\gemma-engine.ts -> @mlc-ai/web-llm",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_mlc-ai_web-llm_lib_index_js.js"
+    ]
+  }
+}
